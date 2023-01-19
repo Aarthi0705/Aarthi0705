@@ -68,10 +68,13 @@ Currently pursuing B.Tech In Information Technology
 <br/>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aarthi0705&theme=light&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aarthi0705&theme=light&hide_border=true)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarthi0705&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aarthi0705&theme=light&no-frame=true&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Aarthi0705&icon=1&color=1)](https://visitcount.itsvg.in)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Aarthi0705)  
-
-![Profile views](https://gpvc.arturio.dev/Aarthi0705)  
