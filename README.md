@@ -69,7 +69,7 @@ Currently pursuing B.Tech In Information Technology
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aarthi0705&theme=light&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aarthi0705)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aarthi0705&theme=light&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
