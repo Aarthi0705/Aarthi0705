@@ -1,11 +1,10 @@
 ### hey there, I am Aarthy
 #### Web Developer
 ![Web Developer](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+Web dev 
 
-Currently pursuing B.Tech In Information Technology
-
-- 🌱 I’m currently learning DApp Development 
-- 💬 Ask me about MEARN stack, Web Development 
+- 🌱 learning DApp Development 
+- 💬 Ask me about MERN or MEAN stack, Web Development 
 - 📫 How to reach me: aarthimanoharan2003@gmail.com 
 
 
